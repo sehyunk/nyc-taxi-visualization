@@ -83,5 +83,5 @@ having cnt >= 20
 
 # 2. python으로 불러와 시각화
 
-- 
-
+- [nbviewer에서 코드 보기](https://nbviewer.jupyter.org/github/sehyunk/nyc-taxi-visualization/blob/master/nyc-taxi-visualization.ipynb)
+- pydeck 결과물은 노트북에서 보이지 않아 html로 첨부
