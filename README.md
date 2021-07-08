@@ -1,5 +1,4 @@
-#  Pydeck 뉴욕 텍시 데이터 시각화 연습
-
+#  Pydeck 뉴욕 텍시 데이터 시각화
 ![image](/image.png)
 
 ## ref
